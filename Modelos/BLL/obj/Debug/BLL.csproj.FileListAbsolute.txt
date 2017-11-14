@@ -1,0 +1,10 @@
+E:\Modelos\BLL\bin\Debug\BLL.dll
+E:\Modelos\BLL\bin\Debug\BLL.pdb
+E:\Modelos\BLL\bin\Debug\DAL.dll
+E:\Modelos\BLL\bin\Debug\Modelos.dll
+E:\Modelos\BLL\bin\Debug\DAL.pdb
+E:\Modelos\BLL\bin\Debug\Modelos.pdb
+E:\Modelos\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Modelos\BLL\obj\Debug\BLL.dll
+E:\Modelos\BLL\obj\Debug\BLL.pdb
+E:\Modelos\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache

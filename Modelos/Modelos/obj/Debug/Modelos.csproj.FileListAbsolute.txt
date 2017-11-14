@@ -1,0 +1,5 @@
+E:\Modelos\Modelos\bin\Debug\Modelos.dll
+E:\Modelos\Modelos\bin\Debug\Modelos.pdb
+E:\Modelos\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+E:\Modelos\Modelos\obj\Debug\Modelos.dll
+E:\Modelos\Modelos\obj\Debug\Modelos.pdb
